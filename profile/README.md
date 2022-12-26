@@ -1,4 +1,4 @@
-![obl](images/obl.png)
+![obl](https://raw.githubusercontent.com/DarkMooNight/.github/main/profile/images/obl.png)
 
 ### Hi! 👋
 We are a team of developers who are just starting their way in the world of information technology. We don't have a specific goal, but we create games and programs because we like it, and we are ready to share our work with you.
