@@ -1,8 +1,8 @@
-![obl](https://raw.githubusercontent.com/DarkMooNight/.github/main/profile/images/obl.png)
+![obl](https://raw.githubusercontent.com/darkmoonight/.github/main/profile/images/obl.png)
 
 ### Hi! 👋
 
-We are a team of developers passionate about the world of information technology. Our main goal is to create high-quality open-source games and applications for a wide audience. We enjoy doing this, and we are ready to share our work to make the digital realm more accessible and exciting for everyone.
+We are a team of developers of open-source software and applications. We work together to create useful software for everyone. Our goal is to make the world a better place through technology. If we have an idea, we bring it to life and share it with everyone for free. We are open to anyone who wants to join and help make the world more open and free!
 
 #### Contact Us
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+bXvLJdzO2pZiZGVi)
