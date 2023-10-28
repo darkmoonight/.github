@@ -7,6 +7,7 @@
 ### Our Mission
 
 We believe in the power of open-source and the spirit of collaboration. We work together to turn ideas into real, useful software, and we share our creations with the world, free of charge. Our goal is to promote openness and freedom in technology.
+Let's build a better, open, and free world together through technology.
 
 ### Join Us
 
@@ -20,5 +21,3 @@ You can reach out to us on various platforms:
 [![VK](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/darkmoonight)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JMMa9aHh8f)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkmoonight2022@gmail.com)
-
-Let's build a better, open, and free world together through technology.
