@@ -18,6 +18,5 @@ We welcome anyone who shares our passion for open-source and wants to contribute
 You can reach out to us on various platforms:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+bXvLJdzO2pZiZGVi)
-[![VK](https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/darkmoonight)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JMMa9aHh8f)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darkmoonight2022@gmail.com)
